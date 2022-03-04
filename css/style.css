@@ -1,0 +1,68 @@
+
+.header{
+	min-height: 100px;
+	background-color: bisque;
+	overflow: hidden;
+}
+
+}
+nav ul{
+
+	float: right;
+	margin-right: 20px;
+}
+
+ul li{
+	display: inline-block;
+	line-height: 80px;
+	font-weight: bold;
+
+} 
+
+.wrapper{
+	border: 1px solid black; 
+	overflow: hidden;
+
+}
+.contact{
+	float: left;
+	width: 65%;
+	min-height: 200px;
+	background-color: skyblue;
+
+}
+.blog{
+	float: right;
+	width: 35%;
+	min-height: 200px;
+	background-color: lightpink;
+
+}
+               
+.container{
+	overflow: hidden;
+
+}
+.content{
+	float: left;
+	width: 33.33%;
+	min-height: 150px;
+	background-color: aqua;
+
+
+}
+.cyan{
+	background-color: cyan;
+}
+.crimson{
+	background-color: mediumaquamarine;
+
+}
+.magenda{
+	background-color: dimgray;
+}
+             
+.footer{
+	min-height: 100px;
+	background-color: purple;
+}
